@@ -6,4 +6,4 @@ INSTALL:
     adb push usbreset /system/bin
     adb push usbreset.sh /system/bin
 
-After put usbreset.sh in autostart any mode
+After install put usbreset.sh in autostart any mode.
